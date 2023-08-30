@@ -1,2 +1,2 @@
 # presets
-Brushes and tools for Krita.
+Brushes and tools for Krita and MyPaint.
