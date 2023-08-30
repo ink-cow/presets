@@ -67,7 +67,7 @@ These are flat halftone applications that mesh with the zipper brushes.
 
 > :bulb: Lay down flat zip tone, then brush outward with the corresponding zipper brush.
 > 
-> ![Tone demo](img/moo-zipper.png)
+> ![Tone demo](img/moo-zipper2.png)
 
 ### Studio presets
 
