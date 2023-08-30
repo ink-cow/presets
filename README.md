@@ -61,6 +61,10 @@ Different patterns for quick application.
 
 You can literally paint with halftone (zipper brushes) and other tones.
 
+> :bulb: The first two presets, boom and burst, are intended to emulate manga-style thought bursts. You must follow a circular pattern. The ellipse tool will leave one orphan stroke angling the wrong way, so it's better to create an ellipse shape with the assistant tool (left) or if you can manage, freehand (right).
+> 
+> ![Boom demo](img/moo-boom.png)
+
 ### Zip presets
 
 ![Zip presets](img/moo-zip-presets.png)
