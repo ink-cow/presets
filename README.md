@@ -11,9 +11,19 @@ A set of brushes for making comics in MyPaint! Download the ZIP and then import 
 
 Mojo Moo for Krita is huge, basically one giant toolkit split into two ZIP files. Download the ZIP files, then import them through the resources menu in Krita.
 
+### Draw presets
+
+![Draw presets](img/moo-draw-presets.png)
+
+Draw and erase (and cut). In the bottom row, the Oneraser (pronounce it *one-racer*) is handy if set to the eraser end of the stylus, as it allows large and small erasures.
+
 ### Ink presets
 
 ![Ink presets](img/moo-ink-presets.png)
+
+Many of these brushes are configured to emulate physical brushes, in that they are not simply moving dots, but oval shapes that drag in the direction of your stroke, like the bristles of a sable brush hugging the paper. The brush lines will also display some amount of transparency, and you will sometimes be able to see ink lines crossing each other.
+
+Keep in mind these are not art brushes for paintings that will be displayed large, but brushes for cartoon/comic book linework that will be reduced for print. If you ink digital comics, these should not be used to create comics at their final display size, but larger and then reduced.
 
 ### Hand lettering presets
 
@@ -33,9 +43,19 @@ The block line presets Trip and Trope, however, are extremely difficult to use. 
 
 ![Stamp presets](img/moo-stamp-presets.png)
 
+Different patterns for quick application.
+
 ### Tone presets
 
 ![Tone presets](img/moo-tone-presets.png)
+
+You can literally paint with halftone and other tone effects.
+
+### Zip presets
+
+![Tone presets](img/moo-zip-presets.png)
+
+These are flat halftone applications that mesh with the halftone brushes.
 
 ### Studio presets
 
@@ -53,5 +73,9 @@ The presets with the leaning boxes lets you twist areas of art in one direction 
 
 The presets with slices through the boxes are gutter tools. You can use this in conjunction with layer style/stroke to create panel layouts.
 
+### Office presets
 
+![Office presets](img/moo-office-presets.png)
+
+For making notations and highlighting areas in work files.
 
