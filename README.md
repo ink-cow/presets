@@ -1,6 +1,10 @@
 # presets
 Brushes and tools for Krita and MyPaint.
 
+* [Mojo for MyPaint](#mojo-for-mypaint) -- Created for MyPaint, can also be used in Krita.
+* [Mojo Moo for Krita](#mojo-moo-for-krita) -- For Krita 5.
+* [Older sets](#older-sets) -- For Krita 4.
+
 ## Mojo for MyPaint
 
 ![Mojo for MyPaint](img/mp-display.png)
@@ -9,7 +13,7 @@ A set of brushes for making comics in MyPaint! Download the ZIP and then import 
 
 I've been meaning to create a more complete guide to just everything, but the perfect is the enemy of the good. Hopefully this general rundown is enough to get you started. After installing the presets, you can familiarize yourself with the name of each one (as opposed to listing each one in detail here).
 
-## Mojo Moo for Krita 5
+## Mojo Moo for Krita
 
 Mojo Moo for Krita is huge, basically one giant toolkit split into two ZIP files. Download the ZIP files, then import them through the resources menu in Krita.
 
@@ -96,4 +100,8 @@ The presets with slices through the boxes are gutter tools. You can use this in 
 ![Office presets](img/moo-office-presets.png)
 
 For making notations and highlighting areas in work files.
+
+## Older sets
+
+More info to come.
 
