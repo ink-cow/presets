@@ -37,6 +37,10 @@ The lettering presets are mostly straightforward. You'll likely always have to r
 
 The block line presets Trip and Trope, however, are extremely difficult to use. You have to handle the stylus very carefully at line ends to avoid disaster, because when you lift the stylus the line thinks you're about to go in another direction. Zap is offered as an easy alternative, with a line that fakes a block end.
 
+> :bulb: Easy lettering outline: use layer style/stroke.
+> 
+> ![Outline demo](img/moo-crack.png)
+
 ![Lettering](img/moo-lettering.png)
 
 ### Stamp presets
@@ -45,11 +49,15 @@ The block line presets Trip and Trope, however, are extremely difficult to use. 
 
 Different patterns for quick application.
 
+> :bulb: Quick effects by applying a stamp pattern, twisting it left and right, then eliminating the fuzz with the bitmap presets (see Studio presets, below).
+> 
+> ![Stamp demo](img/moo-stamp-demo.png)
+
 ### Tone presets
 
 ![Tone presets](img/moo-tone-presets.png)
 
-You can literally paint with halftone (zipper brushes) and other tone effects.
+You can literally paint with halftone (zipper brushes) and other tones.
 
 ### Zip presets
 
@@ -57,7 +65,9 @@ You can literally paint with halftone (zipper brushes) and other tone effects.
 
 These are flat halftone applications that mesh with the zipper brushes.
 
-![Tone demo](img/moo-zipper.png)
+> :bulb: Lay down flat zip tone, then brush outward with the corresponding zipper brush.
+> 
+> ![Tone demo](img/moo-zipper.png)
 
 ### Studio presets
 
