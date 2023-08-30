@@ -7,6 +7,8 @@ Brushes and tools for Krita and MyPaint.
 
 A set of brushes for making comics in MyPaint! Download the ZIP and then import it through the brush menu in MyPaint.
 
+I've been meaning to create a more complete guide to just everything, but the perfect is the enemy of the good. Hopefully this general rundown is enough to get you started. After installing the presets, you can familiarize yourself with the name of each one (as opposed to listing each one in detail here).
+
 ## Mojo Moo for Krita 5
 
 Mojo Moo for Krita is huge, basically one giant toolkit split into two ZIP files. Download the ZIP files, then import them through the resources menu in Krita.
@@ -49,7 +51,7 @@ The block line presets Trip and Trope, however, are extremely difficult to use. 
 
 Different patterns for quick application.
 
-> :bulb: Quick effects by applying a stamp pattern, twisting it left and right, then eliminating the fuzz with the bitmap presets (see Studio presets, below).
+> :bulb: Quick effects by applying a stamp pattern, twisting it left and right, then eliminating the fuzz with the bitmap presets (see [studio presets](#studio-presets), below).
 > 
 > ![Stamp demo](img/moo-stamp-demo.png)
 
