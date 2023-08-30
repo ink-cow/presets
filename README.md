@@ -21,7 +21,7 @@ The hand lettering is a bit sloppy here. MyPaint does not have a grid or guides,
 
 ## Mojo Moo for Krita
 
-Mojo Moo for Krita is huge, basically one giant toolkit split into two ZIP files. Download the ZIP files, then import them through the resources menu in Krita.
+Mojo Moo for Krita is huge, basically one giant toolkit split into two bundles. Download the bundles, then import them through the resources menu in Krita.
 
 I've been meaning to create a more complete guide to just everything, but the perfect is the enemy of the good. Hopefully this general rundown is enough to get you started. After installing the presets, you can familiarize yourself with the name of each one (as opposed to listing each one in detail here).
 
