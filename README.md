@@ -36,3 +36,22 @@ The block line presets Trip and Trope, however, are extremely difficult to use. 
 ### Tone presets
 
 ![Tone presets](img/moo-tone-presets.png)
+
+### Studio presets
+
+![Studio presets](img/moo-studio-presets.png)
+
+Special presets for manipulating your work in a variety of magical ways. It was difficult to come up with icons to represent the actions of each preset, we did our best.
+
+The first two presets are for eliminating anti-aliasing, reducing art to pure bitmap.
+
+There are presets for working with virtual blueline. The blue-to-white preset converts any bright color to white. You can then use white-to-clear to eliminate it altogether. Blue-to-gray and gray-to-blue lets you convert pencils between blueline and gray.
+
+The blue-to-gold preset inverts everything.
+
+The presets with the leaning boxes lets you twist areas of art in one direction or another.
+
+The presets with slices through the boxes are gutter tools. You can use this in conjunction with layer style/stroke to create panel layouts.
+
+
+
