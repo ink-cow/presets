@@ -79,6 +79,8 @@ These are flat halftone applications that mesh with the zipper brushes.
 > 
 > ![Tone demo](img/moo-zipper2.png)
 
+> :paperclip: Krita used to have a halftone filter that operated mostly in a decorative fashion, but now it's a professional powerhouse. Instead of these brushes, you could apply flat gray tone to a layer, then convert it to halftone with the filter layer. But then, it might not be bad to have these brushes as an option.
+
 ### Studio presets
 
 ![Studio presets](img/moo-studio-presets.png)
