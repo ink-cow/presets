@@ -49,13 +49,15 @@ Different patterns for quick application.
 
 ![Tone presets](img/moo-tone-presets.png)
 
-You can literally paint with halftone and other tone effects.
+You can literally paint with halftone (zipper brushes) and other tone effects.
 
 ### Zip presets
 
-![Tone presets](img/moo-zip-presets.png)
+![Zip presets](img/moo-zip-presets.png)
 
-These are flat halftone applications that mesh with the halftone brushes.
+These are flat halftone applications that mesh with the zipper brushes.
+
+![Tone demo](img/moo-zipper.png)
 
 ### Studio presets
 
