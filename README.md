@@ -9,7 +9,7 @@ A set of brushes for making comics in MyPaint! Download the ZIP and then import 
 
 ## Mojo Moo for Krita 5
 
-Mojo Moo for Krita is huge, basically one giant toolkit split into two ZIP files.
+Mojo Moo for Krita is huge, basically one giant toolkit split into two ZIP files. Download the ZIP files, then import them through the resources menu in Krita.
 
 ### Hand lettering presets
 
@@ -21,6 +21,6 @@ Red is the average lettering group. This was created to emulate typical comic bo
 
 The lettering presets are mostly straightforward. You'll likely always have to resize them for the job at hand.
 
-The block line presets Trip and Trope, however, are extremely difficult to use. You have to handle the stylus very carefully at line ends to avoid disaster, because when you lift the stylus the line thinks you're about to go in another direction. Zap is offered as an easy alternative
+The block line presets Trip and Trope, however, are extremely difficult to use. You have to handle the stylus very carefully at line ends to avoid disaster, because when you lift the stylus the line thinks you're about to go in another direction. Zap is offered as an easy alternative, with a line that fakes a block end.
 
 ![Lettering](img/moo-lettering.png)
