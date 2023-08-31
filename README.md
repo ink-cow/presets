@@ -1,15 +1,8 @@
 # presets
-Brushes and tools for Krita and MyPaint.
+Brushes and tools for Krita and MyPaint. To get the files, go to *Releases* in the side column.
 
 * [Mojo for MyPaint](#mojo-for-mypaint) -- Created for MyPaint, can also be used in Krita.
-
-  * [Download Mojo for MyPaint](mojo-mypaint.zip)
-
 * [Mojo Moo for Krita](#mojo-moo-for-krita) -- For Krita 5.
-
-  * [Download Mojo Moo DRAW bundle](mojo-moo-draw.bundle)
-  * [Download Mojo Moo INK bundle](mojo-moo-ink.bundle)
-  
 * [Older sets](#older-sets) -- For Krita 4.
 
 ## Mojo for MyPaint
