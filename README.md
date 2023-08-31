@@ -2,7 +2,7 @@
 
 ## Mojo Moo for Krita
 
-![](img/mass-menu.png)
+[![Mass menu](img/mass-menu.png)](https://github.com/ink-cow/presets/releases/tag/moo)
 
 ⏬ [Click here for details and downloads](https://github.com/ink-cow/presets/releases/tag/moo)
 
