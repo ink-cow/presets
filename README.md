@@ -4,7 +4,7 @@
 
 ![](img/mass-menu.png)
 
-⏬ [Click here for details and downloads](releases/tag/moo)
+⏬ [Click here for details and downloads](https://github.com/ink-cow/presets/releases/tag/moo)
 
 ## Mojo for MyPaint
 
