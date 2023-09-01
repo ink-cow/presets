@@ -8,6 +8,8 @@
 
 ## Mojo for MyPaint
 
+[![Mass menu](img/mypaint-menu.png)](https://github.com/ink-cow/presets/releases/tag/mypaint-mojo)
+
 ⏬ [Click here for details and downloads](https://github.com/ink-cow/presets/releases/tag/mypaint-mojo)
 
 ## Older sets
